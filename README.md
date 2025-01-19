@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elonscottdev" alt="elonscottdev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [elonscottdev.pro](elonscottdev.pro)
+- 👨‍💻 All of my projects are available. at [elonscottdev.pro](elonscottdev.pro)
 
 - 📫 How to reach me **elonscottdev@gmail.com**
 
