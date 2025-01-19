@@ -9,9 +9,6 @@
 
 - 📫 How to reach me **elonscottdev@gmail.com**
 
-<p align="left">
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elonscottdev&show_icons=true&locale=en&layout=compact" alt="elonscottdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elonscottdev&show_icons=true&locale=en" alt="elonscottdev" /></p>
