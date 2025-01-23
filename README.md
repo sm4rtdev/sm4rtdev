@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elonscottdev" alt="elonscottdev" /></a> </p>
 
-- 👨‍💻 All of my projects are available. at [elonscottdev.pro](elonscottdev.pro)
+- 👨‍💻 All of my projects are available at [elonscottdev.pro](elonscottdev.pro)
 
 - 📫 How to reach me **elonscottdev@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elonscottdev&show_icons=true&locale=en&layout=compact" alt="elonscottdev" /></p>
 
