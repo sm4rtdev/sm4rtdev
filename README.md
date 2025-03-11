@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm4rtdev&label=Profile%20views&color=0e75b6&style=flat" alt="sm4rtdev" /> </p>
 
-<p align="left"> <a href="https://github.com/sm4rtdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sm4rtdev" alt="sm4rtdev" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sm4rtdev" alt="sm4rtdev" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [elonscottdev.pro](elonscottdev.pro)
 
