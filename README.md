@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=sm4rtdev&theme=juicyfresh" alt="sm4rtdev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [elonscottdev.pro](elonscottdev.pro)
+- 👨‍💻 All of my projects are available at [elonscottdev.pro](https://www.elonscottdev.pro)
 
 - 📫 How to reach me **elonscottdev@gmail.com**
 
