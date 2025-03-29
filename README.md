@@ -11,3 +11,13 @@
 
 <p align="left">
 </p>
+
+<a href="https://github.com/sm4rtdev/github-readme-stats">
+  <img height=270 align="center" src="https://github-readme-stats.vercel.app/api?username=sm4rtdev&show_icons=true&rank_icon=percentile&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=79ff97&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
+</a>
+<a href="https://github.com/sm4rtdev/github-readme-stats">
+  <img height=270 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sm4rtdev&show_icons=true&locale=en&layout=donut&langs_count=8&theme=radical" />
+</a>
+
+[![Elon's GitHub stats-Dark](https://github-readme-streak-stats.herokuapp.com/?user=sm4rtdev&theme=radical#gh-light-mode-only)](https://github.com/sm4rtdev/github-readme-stats#gh-light-mode-only)
+[![Elon's GitHub stats-Light](https://github-readme-streak-stats.herokuapp.com/?user=sm4rtdev#gh-dark-mode-only)](https://github.com/sm4rtdev/github-readme-stats#gh-dark-mode-only)
