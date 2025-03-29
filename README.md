@@ -18,6 +18,3 @@
 <a href="https://github.com/sm4rtdev/github-readme-stats">
   <img height=270 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sm4rtdev&show_icons=true&locale=en&layout=donut&langs_count=8&theme=radical" />
 </a>
-
-[![Elon's GitHub stats-Dark](https://github-readme-streak-stats.herokuapp.com/?user=sm4rtdev&theme=radical#gh-light-mode-only)](https://github.com/sm4rtdev/github-readme-stats#gh-light-mode-only)
-[![Elon's GitHub stats-Light](https://github-readme-streak-stats.herokuapp.com/?user=sm4rtdev#gh-dark-mode-only)](https://github.com/sm4rtdev/github-readme-stats#gh-dark-mode-only)
