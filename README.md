@@ -20,3 +20,6 @@
 <a href="https://github.com/sm4rtdev">
   <img height=270 align="center" src="https://github-readme-stats.vercel.app/api?username=sm4rtdev&show_icons=true&rank_icon=github&icon_color=79ff97&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
 </a>
+<div align="center">
+  <a href="https://github.com/sm4rtdev/sm4rtdev"><img alt="sm4rtdev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sm4rtdev&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  </div>
